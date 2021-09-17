@@ -5,7 +5,7 @@ comments, strings, and a print statement.
 
 The purpose to this program is to start off with Python after making sure the installation was smoothly achieved. Printing the common phrase demonstrates the computer being instructed to read and print the stored string.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/u4ZJ1NPMmOk)
 
 # Development Environment
 
