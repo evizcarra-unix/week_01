@@ -13,7 +13,6 @@ The purpose to this program is to start off with Python after making sure the in
 * Python 3.9.7 64-bit
 * Git / GitHub
 
-{Describe the programming language that you used}
 
 # Useful Websites
 
